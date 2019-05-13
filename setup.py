@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'project_dataset'
 DESCRIPTION = 'Dataset of our project'
-URL = 'https://github.com/me/project'
+URL = 'https://github.com/Burlinlove/Project_dataset'
 EMAIL = 'wang123hengsuan@gmail.com'
 AUTHOR = 'Burlin'
 REQUIRES_PYTHON = '>=3.6.0'
